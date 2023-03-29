@@ -2,6 +2,8 @@
 
 This is a web-based game that is similar to the popular memory game, Simon Says. The game consists of four colored buttons - red, blue, green, and yellow - that light up in a random sequence. The player must then repeat the sequence by clicking on the buttons in the correct order. Each time the player successfully completes a sequence, the game increases the difficulty level by adding an extra button to the sequence. If the player makes a mistake, the game ends and the player must start over. The project idea and structure came from Angela Yu.
 
+Play it [HERE](https://rifleben.github.io/Simon-Game/)
+
 ## Getting Started
 
 To play the game, simply open the index.html file in a web browser. The game will start once a key is pressed.
